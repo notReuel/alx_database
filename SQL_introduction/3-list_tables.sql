@@ -4,4 +4,4 @@
 SHOW DATABASES;
 
 -- List the tables in the selected databases
-USE mysql SHOW TABLES;
+USE hbtn_test_db_0 SHOW TABLES;
