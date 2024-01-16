@@ -1,3 +1,3 @@
 -- Script to list the tables in a database
-USE mysql
+USE mysql;
     SHOW TABLES;
