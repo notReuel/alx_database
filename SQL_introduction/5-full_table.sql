@@ -1,2 +1,3 @@
 -- A script to describe a table
-DESCRIBE first_table;
+SHOW FULL COLUMNS
+FROM first_table;
