@@ -1,2 +1,3 @@
 -- A script to describe a table
-SHOW CREATE TABLE first_table FROM btn_0c_0;
+-- SHOW CREATE TABLE first_table FROM btn_0c_0;
+DESC first_table;
