@@ -1,5 +1,4 @@
 -- A script to create another table in a database within my MySQL server with multiple rows
-
 CREATE TABLE second_table (
     id INT, 
     name VARCHAR(256), 
