@@ -1,5 +1,4 @@
 -- an SqL Script to add a new row in an existing table
 
-INSERT INTO first_table (
-    'Holberton School'
-);
+INSERT INTO first_table 
+VALUES ('Holberton School');
