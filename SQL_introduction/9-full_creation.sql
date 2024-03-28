@@ -3,7 +3,10 @@
 -- CREATING THE TABLE
 USE hbtn_0c_0;
 
-CREATE TABLE second_table (id INT, name VARCHAR(256), score INT);
+CREATE TABLE IF NOT EXISTS second_table (
+    id INT, 
+    name VARCHAR(256), 
+    score INT);
 
 -- INSERTING THE
 INSERT INTO second_table (id, name, score)
