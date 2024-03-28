@@ -1,0 +1,1 @@
+Series of exercises on SQL advanced queries
